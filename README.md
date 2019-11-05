@@ -1,6 +1,6 @@
 # homestay
 
-> A Mpvue project
+> 红业民宿小程序源码
 
 ## Build Setup
 
